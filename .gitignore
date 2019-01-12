@@ -1,0 +1,9 @@
+cmd/server/access.log
+cmd/server/error.log
+cmd/server/debug
+cmd/server/server
+*.log
+.DS_Store
+*.out
+internal/**/debug.test
+.vscode/*
